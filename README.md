@@ -16,38 +16,47 @@
 
 
   ## Installation
-  Clone: the repo  https://github.com/Wendyf02/Reverse-Engeineering-Code.git   
+  Clone: the repo from github 
   Install all npm packages 
   -npm install   
   -npm inquire    
   -npm audix fix  
 
-  Tech use on app
-  -Bycrypt js  
-  -Express-Exprexx Session   
-  -Msql2
-  -Passaport
+  Tech use on app    
+  -Bycrypt js      
+  -Express-Exprexx Session       
+  -Msql2    
+  -Passaport     
 
   ## Usage
-   To use this app you must create a db schema.sql file in MYSQSLbench 
-   "passaport_demo" and install all dependencies.
+   To use this app you must create a db schema.sql file in MYSQLbench 
+   "passaport_demo" and install all dependencies.    
 
-   Once you've sucessfully created your database, type the following 
-   command into your command line Develop in your current working directory  
-   in order to run application
+   Once you've sucessfully created your database, type the following     
+   command into your command line Develop in your current working directory    
+   in order to run application.    
 
-   -node server.js
+   -node server.js    
 
    After running the above command, you will get prompt commnads 
-   to visit ==> Listening on port 8080. Visit http://localhost:8080/ in your browser. Open up your browser and navigate to localhost:8080 to use the application.
+   to visit ==> Listening on port 8080. Visit http://localhost:8080/    
+   in your browser. Open up your browser and navigate to localhost:8080     
+   to use the application.      
    
 
+  ## Test    
+  Testing with any issues to be completed in VS Code (Problems console.log)    
+  Terminal within VC Code , MySQL database and chrome browser.
+
+    
   ## Lincense
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
   ## Questions
 
-  Contact me:   
-  Github: https://github.com/Wendyf02 
-  Email: cammomila444@gmail.com
+  Contact me:       
+  Github: https://github.com/Wendyf02     
+  Email: cammomila444@gmail.com      
+  Extensive walk through of Tutorial in Google Drive link:       
+ https://docs.google.com/document/d/1O6Xw2Xq0FZRdsYK65saylfdaTbQHG_oFxCISR35QzWk/edit?usp=sharing         
